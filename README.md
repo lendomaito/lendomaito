@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lendomaito
+- 👋 Hi, I’m @Wormwood
 - 👀 I’m interested in all things STEM
 - 🌱 I’m currently learning linux(sort of)
 - 💞️ I’m looking to collaborate on... some day..hopefully.:P
